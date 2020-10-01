@@ -1,0 +1,2 @@
+1. Bat.java -> Example of multiple inheritance using Interface.
+2. Book.java -> Example of Abstract Class.
